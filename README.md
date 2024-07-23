@@ -1,5 +1,7 @@
 # SyncSelectNgSignalEffect
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2795f2e6-6443-48dd-9d51-8a33b4812923/deploy-status)](https://app.netlify.com/sites/lustrous-pasca-648016/deploys)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.1.
 
 ## Development server
